@@ -1,0 +1,18 @@
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  flex: 1;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.list {
+  border: 20px solid #2c3e50;
+}
+
+form {
+  margin-top: 10px;
+}

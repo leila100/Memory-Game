@@ -1,0 +1,19 @@
+.input-group {
+  width: 50%;
+  margin: auto;
+}
+
+.btn {
+  background-color: #2c3e50;
+  color: white;
+  border-color: transparent;
+}
+
+select:hover {
+  /*background-color: #2c3e50;*/
+  color: #2c3e50;
+}
+
+.custom-select:focus {
+  border-color: #2c3e50;
+}
